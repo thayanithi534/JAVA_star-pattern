@@ -12,7 +12,7 @@ public class star_pattern
             {
               System.out.print("*");
             }
-          System.out,println();
+          System.out.println();
         }  
     }
   }  
